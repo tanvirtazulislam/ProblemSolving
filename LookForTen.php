@@ -8,7 +8,8 @@
         }
         return false;
     }
-    
+
+
     fscanf(STDIN, "%d %d", $a, $b);
     //echo $a." ".$b;
 
@@ -16,6 +17,5 @@
         echo "True";
     else 
         echo "False";
-
-    
+   
 ?>
