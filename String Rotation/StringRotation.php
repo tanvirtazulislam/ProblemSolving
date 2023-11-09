@@ -1,4 +1,4 @@
-?php
+<?php
     # Write your PHP code from here
     fscanf(STDIN, "%s %s", $string, $rotatedString);
     //echo $string." ".$rotatedString."\n";
